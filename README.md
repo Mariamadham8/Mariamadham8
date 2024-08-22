@@ -46,7 +46,7 @@
 ## 🚀 Top Projects
 
 [![Matrix Solver using Gaussian Elimination](https://github-readme-stats.vercel.app/api/pin/?username=Mariamadham8&repo=Matrix-Solver-using-Gaussian-Elimination)](https://github.com/Mariamadham8/Matrix-Solver-using-Gaussian-Elimination)
-[![FireTruck Arduino Project](https://github-readme-stats.vercel.app/api/pin/?username=Mariamadham8&repo=FireTruck_Arduino_Project)](https://github.com/Mariamadham8/FireTruck_Arduino_Project)
+[![Pet store system](https://github.com/Mariamadham8/DB.git)
 
 
 ## 🔗 Connect with Me
