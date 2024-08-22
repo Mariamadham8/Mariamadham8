@@ -34,10 +34,8 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-333333?style=flat&logo=code)
 
-- **Languages & Tools**: 
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariamadham8&layout=compact)
+
 
 ## 📈 GitHub Stats
 
