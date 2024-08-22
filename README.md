@@ -1,6 +1,6 @@
 # Hi there, I'm Mariam! 👋
 
-![Nezuko-chan waving](https://tenor.com/view/nezuko-anime-demon-slayer-demon-slayer-characters-cute-gif-4803054333354908678) 
+![Nezuko-chan waving](https://media1.tenor.com/m/UPPqqw_sa0EAAAAC/nezuko-demon-slayer.gif)
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
