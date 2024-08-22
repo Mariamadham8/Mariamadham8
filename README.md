@@ -1,10 +1,17 @@
-# Hi there, I'm Mariam! 👋
+<p align="center">
+  <img src="https://media1.tenor.com/m/UPPqqw_sa0EAAAAC/nezuko-demon-slayer.gif" alt="Nezuko-chan waving" />
+</p>
 
-![Nezuko-chan waving](https://media1.tenor.com/m/UPPqqw_sa0EAAAAC/nezuko-demon-slayer.gif)
+<h1 align="center">Hi there, I'm Mariam! 👋</h1>
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
-
+<p align="center">
+  <a href="https://github.com/Mariamadham8">
+    <img src="https://img.shields.io/github/followers/Mariamadham8?style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/twitter/follow/yourhandle?style=social" alt="Twitter Follow" />
+  </a>
+</p>
 
 
 ## About Me
