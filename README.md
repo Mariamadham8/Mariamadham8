@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm [Mariam]! 👋
 
-<!--
-**Mariamadham8/Mariamadham8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **[Software Embedded Systems ]**
+- 🔭 I’m working on **[your current project or area of focus]**
+- 👯 I’m looking to collaborate on **[open source projects, interesting ideas, etc.]**
+- 💬 Ask me about **[SW Development,DSA]**
+- 📫 How to reach me: **[https://www.facebook.com/mariam.adham.12?locale=ar_AR  www.linkedin.com/in/mariam-adham-4a217a252]**
+
+
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+
+## 📈 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🚀 Top Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-name)](https://github.com/yourusername/your-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-name)](https://github.com/yourusername/your-repo-name)
+
+## 🔗 Connect with Me
+
+- LinkedIn: [Your LinkedIn]( www.linkedin.com/in/mariam-adham-4a217a252)
+
+
+
