@@ -13,13 +13,11 @@
 
 ## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ## 📈 GitHub Stats
 
