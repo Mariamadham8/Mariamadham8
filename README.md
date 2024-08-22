@@ -1,6 +1,8 @@
-# Hi there, I'm [Mariam]! 👋
+# ![Hi there](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif) I'm Your Mariam! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+
 
 ## About Me
 
@@ -8,7 +10,11 @@
 - 🔭 I’m working on **[your current project or area of focus]**
 - 👯 I’m looking to collaborate on **[open source projects, interesting ideas, etc.]**
 - 💬 Ask me about **[SW Development,DSA]**
-- 📫 How to reach me: **[https://www.facebook.com/mariam.adham.12?locale=ar_AR  www.linkedin.com/in/mariam-adham-4a217a252]**
+
+## 📫 How to reach me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mariam.adham.12?locale=ar_AR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-adham-4a217a252)
 
 
 ## 🛠️ Technologies & Tools
@@ -18,6 +24,12 @@
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-333333?style=flat&logo=code)
+
+- **Languages & Tools**: 
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ## 📈 GitHub Stats
 
@@ -25,8 +37,9 @@
 
 ## 🚀 Top Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-name)](https://github.com/yourusername/your-repo-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-name)](https://github.com/yourusername/your-repo-name)
+[![Matrix Solver using Gaussian Elimination](https://github-readme-stats.vercel.app/api/pin/?username=Mariamadham8&repo=Matrix-Solver-using-Gaussian-Elimination)](https://github.com/Mariamadham8/Matrix-Solver-using-Gaussian-Elimination)
+[![FireTruck Arduino Project](https://github-readme-stats.vercel.app/api/pin/?username=Mariamadham8&repo=FireTruck_Arduino_Project)](https://github.com/Mariamadham8/FireTruck_Arduino_Project)
+
 
 ## 🔗 Connect with Me
 
