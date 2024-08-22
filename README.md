@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Mariam! 👋</h1>
+<p align="center">
+  <span style="font-family: 'Arial', sans-serif; font-size: 2em; color: #ff6347;">Hi there, I'm Mariam! 👋</span>
+</p>
 <p align="center">
   <img src="https://media1.tenor.com/m/UPPqqw_sa0EAAAAC/nezuko-demon-slayer.gif" alt="Nezuko-chan waving" />
 </p>
