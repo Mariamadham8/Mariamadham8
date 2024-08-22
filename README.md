@@ -1,9 +1,7 @@
+<h1 align="center">Hi there, I'm Mariam! 👋</h1>
 <p align="center">
   <img src="https://media1.tenor.com/m/UPPqqw_sa0EAAAAC/nezuko-demon-slayer.gif" alt="Nezuko-chan waving" />
 </p>
-
-<h1 align="center">Hi there, I'm Mariam! 👋</h1>
-
 <p align="center">
   <a href="https://github.com/Mariamadham8">
     <img src="https://img.shields.io/github/followers/Mariamadham8?style=social" alt="GitHub followers" />
