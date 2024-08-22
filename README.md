@@ -6,9 +6,6 @@
   <a href="https://github.com/Mariamadham8">
     <img src="https://img.shields.io/github/followers/Mariamadham8?style=social" alt="GitHub followers" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/twitter/follow/yourhandle?style=social" alt="Twitter Follow" />
-  </a>
 </p>
 
 
