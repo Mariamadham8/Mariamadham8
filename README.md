@@ -31,12 +31,18 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-333333?style=flat&logo=code)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariamadham8&layout=compact)
+## 📊 GitHub Stats & Top Languages
 
-
-## 📈 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariamadham8&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mariamadham8&show_icons=true&theme=radical" alt="Mariam's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariamadham8&layout=compact&theme=radical" alt="Mariam's Top Languages" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🔗 Connect with Me
