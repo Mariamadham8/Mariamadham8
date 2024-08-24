@@ -12,7 +12,6 @@
 ## About Me
 
 - 🌱 I’m currently learning **[Software Embedded Systems ]**
-- 🔭 I’m working on **[your current project or area of focus]**
 - 👯 I’m looking to collaborate on **[open source projects, interesting ideas, etc.]**
 - 💬 Ask me about **[SW Development,DSA]**
 
