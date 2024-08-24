@@ -46,7 +46,7 @@
 
 ## 🔗 Connect with Me
 
-- LinkedIn: [Your LinkedIn]( www.linkedin.com/in/mariam-adham-4a217a252)
+- LinkedIn:[Your LinkedIn](https://www.linkedin.com/in/mariam-adham-4a217a252)
 
 
 
