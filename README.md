@@ -1,6 +1,6 @@
- # <p align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; font-family: 'Arial', sans-serif; font-size: 2em; color: #d6336c; font-weight: bold; font-style: italic;">
+# <p align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; font-family: 'Arial', sans-serif; font-size: 2em; color: #800080; font-weight: bold; font-style: italic;">
   It's Meeee! 👋 
-  <img src="https://i.pinimg.com/564x/f2/7f/4f/f27f4fca9ff11a8c9d508a442fd3a9e1.jpg" width="45" />
+  <img src="https://i.pinimg.com/564x/f2/7f/4f/f27f4fca9ff11a8c9d508a442fd3a9e1.jpg" width="45" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
@@ -50,7 +50,4 @@
 
 ## 🔗 Connect with Me
 
-- LinkedIn:[My LinkedIn](https://www.linkedin.com/in/mariam-adham-4a217a252)
-
-
-
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mariam-adham-4a217a252)
