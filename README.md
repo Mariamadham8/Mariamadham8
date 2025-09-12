@@ -1,10 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=9D4EDD&center=true&vCenter=true&width=940&lines=Hey+there!+It's Mee+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Software+%26+Embedded+Systems+Enthusiast+%F0%9F%9A%80;Let's+build+something+amazing+together!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=9D4EDD&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Mariam+Adham+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Software+%26+Embedded+Systems+Enthusiast+%F0%9F%9A%80;Let's+build+something+amazing+together!+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=100&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
 </div>
+
+<p align="center">
+  <img src="https://i.pinimg.com/564x/f2/7f/4f/f27f4fca9ff11a8c9d508a442fd3a9e1.jpg" width="120" style="border-radius: 50%; border: 4px solid #9D4EDD;" />
+</p>
+
 <div align="center">
   <img src="https://media1.tenor.com/m/kG_V72LkicUAAAAC/jinx-jinx-arcane.gif" alt="Jinx" width="400" />
 </div>
@@ -27,7 +32,12 @@
 🎯 Goal: Building impactful software solutions
 ⚡ Fun fact: I love combining creativity with code!
 ```
-## <https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Connect With Me
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariamadham8&custom_title=Mariam's%20GitHub%20Activity%20Graph&bg_color=240046&color=9D4EDD&line=C77DFF&point=E0AAFF&area=true&hide_border=true" width="100%"/>
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Connect With Me
 
 <div align="center">
   <a href="https://www.facebook.com/mariam.adham.12?locale=ar_AR">
