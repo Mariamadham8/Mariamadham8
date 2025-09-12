@@ -1,5 +1,6 @@
 # <p align="center">
-  <img src="images/header-animated.svg" alt="It's Meeee! animated header" />
+  <img src="https://raw.githack.com/USERNAME/REPO/branch/images/header-animated.svg" />
+</p>
   <img src="https://i.pinimg.com/564x/f2/7f/4f/f27f4fca9ff11a8c9d508a442fd3a9e1.jpg" width="45" style="border-radius: 50%; margin-left: 10px;" />
 </p>
 
