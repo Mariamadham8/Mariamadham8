@@ -83,20 +83,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariamadham8&theme=tokyonight&background=240046&border=9D4EDD&stroke=C77DFF&ring=9D4EDD&fire=C77DFF&currStreakNum=E0AAFF&sideNums=E0AAFF&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=E0AAFF" alt="GitHub Streak" />
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Fun Stuff
-
-<div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=Redressed" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%">
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=E0AAFF&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=60&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=E0AAFF&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
