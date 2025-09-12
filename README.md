@@ -62,17 +62,9 @@
     </tr>
   </table>
 </div>
-
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariamadham8&theme=tokyonight&background=240046&border=9D4EDD&stroke=C77DFF&ring=9D4EDD&fire=C77DFF&currStreakNum=E0AAFF&sideNums=E0AAFF&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=E0AAFF" alt="GitHub Streak" />
-</div>
-
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=60&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=E0AAFF&animation=twinkling" width="100%" />
 </div>
 
-<div align="center">
-  <b>✨ Let's connect and build something amazing together! ✨</b>
-</div>
