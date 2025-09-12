@@ -1,15 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=9D4EDD&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Mariam+Adham+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Software+%26+Embedded+Systems+Enthusiast+%F0%9F%9A%80;Let's+build+something+amazing+together!+%E2%9C%A8" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=100&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
-</div>
-
-<p align="center">
-  <img src="https://i.pinimg.com/564x/f2/7f/4f/f27f4fca9ff11a8c9d508a442fd3a9e1.jpg" width="120" style="border-radius: 50%; border: 4px solid #9D4EDD;" />
-</p>
-
 <div align="center">
   <img src="https://media1.tenor.com/m/kG_V72LkicUAAAAC/jinx-jinx-arcane.gif" alt="Jinx" width="400" />
 </div>
@@ -32,14 +23,7 @@
 🎯 Goal: Building impactful software solutions
 ⚡ Fun fact: I love combining creativity with code!
 ```
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariamadham8&custom_title=Mariam's%20GitHub%20Activity%20Graph&bg_color=240046&color=9D4EDD&line=C77DFF&point=E0AAFF&area=true&hide_border=true" width="100%"/>
-</div>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Connect With Me
-
-<div align="center">
+<div >
   <a href="https://www.facebook.com/mariam.adham.12?locale=ar_AR">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=9D4EDD" alt="Facebook" />
   </a>
@@ -50,7 +34,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
 
-<div align="center">
+<div>
 
 ![C](https://img.shields.io/badge/C-9D4EDD?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-9D4EDD?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -60,13 +44,13 @@
 
 </div>
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,vscode,github&theme=dark&perline=7" />
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
-<div align="center">
+<div>
   <table>
     <tr>
       <td>
@@ -79,7 +63,7 @@
   </table>
 </div>
 
-<div align="center">
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariamadham8&theme=tokyonight&background=240046&border=9D4EDD&stroke=C77DFF&ring=9D4EDD&fire=C77DFF&currStreakNum=E0AAFF&sideNums=E0AAFF&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=E0AAFF" alt="GitHub Streak" />
 </div>
 
