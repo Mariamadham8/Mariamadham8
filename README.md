@@ -1,6 +1,6 @@
-# <p align="center" style="font-family: 'Arial', sans-serif; font-size: 2em; color: #d6336c; font-weight: bold; font-style: italic;"> Hi there, I'm Mariam! 👋</p>
+# <p align="center" style="font-family: 'Arial', sans-serif; font-size: 2em; color: #d6336c; font-weight: bold; font-style: italic;">  It's Meeee!👋</p>
 <p align="center">
-  <img src="https://media1.tenor.com/m/UPPqqw_sa0EAAAAC/nezuko-demon-slayer.gif" alt="Nezuko-chan waving" />
+  <img src="https://media1.tenor.com/m/kG_V72LkicUAAAAC/jinx-jinx-arcane.gif" alt="Jinx" />
 </p>
 <p align="center">
   <a href="https://github.com/Mariamadham8">
