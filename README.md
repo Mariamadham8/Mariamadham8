@@ -1,12 +1,12 @@
-#<p align="center">
+# <p align="center">
   <img src="images/header-animated.svg" alt="It's Meeee! animated header" />
-</p>
-  <img src="https://i.pinimg.com/564x/f2/7f/4f/f27f4fca9ff11a8c9d508a442fd3a9e1.jpg" width="45" style="border-radius: 50%;" />
+  <img src="https://i.pinimg.com/564x/f2/7f/4f/f27f4fca9ff11a8c9d508a442fd3a9e1.jpg" width="45" style="border-radius: 50%; margin-left: 10px;" />
 </p>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/kG_V72LkicUAAAAC/jinx-jinx-arcane.gif" alt="Jinx" />
 </p>
+
 <p align="center">
   <a href="https://github.com/Mariamadham8">
     <img src="https://img.shields.io/github/followers/Mariamadham8?style=social" alt="GitHub followers" />
@@ -16,13 +16,13 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **[Software Embedded Systems ]**
+- 🌱 I’m currently learning **[Software Embedded Systems]**
 - 👯 I’m looking to collaborate on **[open source projects, interesting ideas, etc.]**
-- 💬 Ask me about **[SW Development,DSA]**
+- 💬 Ask me about **[SW Development, DSA]**
 
 ## 📫 How to reach me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mariam.adham.12?locale=ar_AR)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mariam.adham.12?locale=ar_AR)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-adham-4a217a252)
 
 
