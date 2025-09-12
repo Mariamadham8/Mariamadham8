@@ -63,12 +63,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=3000&pause=1500&color=00FF00&background=000000FF&center=true&vCenter=true&width=800&height=120&lines=+++++++++++++++++++++++++++++++++++++++;+++++LCD++DISPLAY++MATRIX+++++++++;+++++++++++++++++++++++++++++++++++++++;++Flutter+can+control+embedded!+++;++Building+IoT+apps+with+Flutter++;++Hardware+meets+software+magic++;++++++++++++++++++++++++++++++++++++++" alt="LCD Display" />
 </div>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=60&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=E0AAFF&animation=twinkling" width="100%" />
-</div>
-
-<div align="center">
-  <b>✨ Let's connect and build something amazing together! ✨</b>
 </div>
