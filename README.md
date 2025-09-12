@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=9D4EDD&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Mariam+Adham+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Software+%26+Embedded+Systems+Enthusiast+%F0%9F%9A%80;Let's+build+something+amazing+together!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=9D4EDD&center=true&vCenter=true&width=940&lines=Hey+there!+It's+Meeee+^^+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Software+%26+Embedded+Systems+Enthusiast+%F0%9F%9A%80;Let's+build+something+amazing+together!+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,9 +24,8 @@
 👯 Looking to collaborate on: IoT Flutter apps & embedded projects  
 💬 Ask me about: Can Flutter control embedded systems? Yes!
 🎯 Goal: Building Flutter apps that talk to hardware
-⚡ Fun fact: I bridge mobile apps with real-world devices!
 ```
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Connect With Me
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Connect With Me
 
 <div>
   <a href="https://www.facebook.com/mariam.adham.12?locale=ar_AR">
@@ -36,7 +35,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=9D4EDD" alt="LinkedIn" />
   </a>
 </div>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
 
 <div>
 
@@ -52,7 +51,7 @@
 <div>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,flutter,git,vscode&theme=dark&perline=7" />
 </div>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
 <div>
   <table>
