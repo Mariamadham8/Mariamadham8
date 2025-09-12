@@ -1,4 +1,8 @@
-# <p align="center" style="font-family: 'Arial', sans-serif; font-size: 2em; color: #d6336c; font-weight: bold; font-style: italic;">  It's Meeee!👋</p>
+# # <p align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; font-family: 'Arial', sans-serif; font-size: 2em; color: #d6336c; font-weight: bold; font-style: italic;">
+  It's Meeee! 👋 
+  <img src="https://i.pinimg.com/564x/f2/7f/4f/f27f4fca9ff11a8c9d508a442fd3a9e1.jpg" width="45" />
+</p>
+
 <p align="center">
   <img src="https://media1.tenor.com/m/kG_V72LkicUAAAAC/jinx-jinx-arcane.gif" alt="Jinx" />
 </p>
