@@ -18,7 +18,7 @@
 
 <br>
 
-<img src="https://i.pinimg.com/736x/74/c6/6e/74c66e4fdb274d76f3eeb2cb59573096.jpg" width="90%" style="border-radius: 8px;" />
+<img src="https://i.pinimg.com/736x/74/c6/6e/74c66e4fdb274d76f3eeb2cb59573096.jpg" width="70%" style="border-radius: 8px;" />
 
 <br><br>
 
@@ -67,20 +67,6 @@ Mariam Adham — CS Student & Flutter Dev
 
 ### 📊 GitHub Stats
 <img src="https://github-stats-extended.vercel.app/api?username=Mariamadham8&show_icons=true&bg_color=1B1400&title_color=F2B705&icon_color=FFD966&text_color=FCE38A&border_color=F2B705&hide_border=false" alt="Mariam's GitHub Stats" height="165" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mariamadham8&layout=compact&bg_color=1B1400&title_color=F2B705&text_color=FCE38A&border_color=F2B705&hide_border=false" alt="Top Languages" height="165" />
-
-<br>
-🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨
-<br>
-🔗 Connect With Me
-<a href="https://www.facebook.com/mariam.adham.12?locale=ar_AR">
-  <img src="https://img.shields.io/badge/Facebook-F2B705?style=for-the-badge&logo=facebook&logoColor=black" alt="Facebook" />
-</a>
-<a href="https://www.linkedin.com/in/mariam-adham-4a217a252">
-  <img src="https://img.shields.io/badge/LinkedIn-F2B705?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
-</a>
-
-<br>
-
 </td>
 <td align="center" valign="top">
 
