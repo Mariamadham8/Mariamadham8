@@ -1,69 +1,97 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=9D4EDD&center=true&vCenter=true&width=940&lines=Hey+there!+It's+Meeee+^^;Welcome+to+my+GitHub+Profile!;" alt="Typing SVG" />
-</div>
+<table width="100%">
+<tr>
+<td colspan="3" align="center">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=100&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
-</div>
+🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/kG_V72LkicUAAAAC/jinx-jinx-arcane.gif" alt="Jinx" width="400" />
-</div>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
+🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>
 
-```purple
-🌱 Currently learning: Embedded Systems with Flutter Integration
-👯 Looking to collaborate on: IoT Flutter apps & embedded projects  
-💬 Ask me about: Can Flutter control embedded systems? Yes!
-🎯 Goal: Building Flutter apps that talk to hardware
+</td>
+<td align="center" valign="top" width="90%">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1200&color=F2B705&center=true&vCenter=true&width=600&height=50&lines=building+mobile+apps...;flutter+%2B+hardware+%3D+%3C3;compiling+dreams+into+apk" alt="Typing SVG" />
+
+<br>
+
+<img src="https://i.pinimg.com/736x/74/c6/6e/74c66e4fdb274d76f3eeb2cb59573096.jpg" width="90%" style="border-radius: 8px;" />
+
+<br><br>
+
+🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪
+
+<br><br>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 📱 About Me
 ```
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Connect With Me
+> whoami
+Mariam Adham — CS Student & Flutter Dev
 
-<div>
-  <a href="https://www.facebook.com/mariam.adham.12?locale=ar_AR">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=9D4EDD" alt="Facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/mariam-adham-4a217a252">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=9D4EDD" alt="LinkedIn" />
-  </a>
-</div>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
+> currentFocus[]
+  ["Embedded Systems + Flutter Integration"]
 
-<div>
+> collaborationInterest
+  "IoT-connected mobile apps"
 
-![C](https://img.shields.io/badge/C-9D4EDD?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-9D4EDD?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-9D4EDD?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-9D4EDD?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-9D4EDD?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-9D4EDD?style=for-the-badge&logo=git&logoColor=white)
+> funFact
+  "I Hate people. but love tea"
+```
 
-</div>
+</td>
+<td width="45%" align="center">
 
-<div>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,flutter,git,vscode&theme=dark&perline=7" />
-</div>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+<img src="https://i.pinimg.com/736x/72/fb/9c/72fb9c01614372df9e856fda79137b3b.jpg" alt="Coding Cat" width="150" style="border-radius: 2px;" />
 
-<div>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mariamadham8&show_icons=true&theme=tokyonight&bg_color=240046&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF&border_color=9D4EDD" alt="Mariam's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariamadham8&layout=compact&theme=tokyonight&bg_color=240046&title_color=9D4EDD&text_color=E0AAFF&border_color=9D4EDD" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=3000&pause=1500&color=00FF00&background=000000FF&center=true&vCenter=true&width=800&height=120&lines=+++++++++++++++++++++++++++++++++++++++;+++++LCD++DISPLAY++MATRIX+++++++++;+++++++++++++++++++++++++++++++++++++++;++Flutter+can+control+embedded!+++;++Building+IoT+apps+with+Flutter++;++Hardware+meets+software+magic++;++++++++++++++++++++++++++++++++++++++" alt="LCD Display" />
-</div>
+<br>
 
+🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨
+<br><br>
+### 🟡 Tech Stack
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,flutter,dart,git,vscode&theme=dark&perline=8" />
+<br>
+🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=60&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=E0AAFF&animation=twinkling" width="100%" />
-</div>
+<br>
+
+### 📊 GitHub Stats
+<img src="https://github-stats-extended.vercel.app/api?username=Mariamadham8&show_icons=true&bg_color=1B1400&title_color=F2B705&icon_color=FFD966&text_color=FCE38A&border_color=F2B705&hide_border=false" alt="Mariam's GitHub Stats" height="165" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mariamadham8&layout=compact&bg_color=1B1400&title_color=F2B705&text_color=FCE38A&border_color=F2B705&hide_border=false" alt="Top Languages" height="165" />
+
+<br>
+🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨
+<br>
+🔗 Connect With Me
+<a href="https://www.facebook.com/mariam.adham.12?locale=ar_AR">
+  <img src="https://img.shields.io/badge/Facebook-F2B705?style=for-the-badge&logo=facebook&logoColor=black" alt="Facebook" />
+</a>
+<a href="https://www.linkedin.com/in/mariam-adham-4a217a252">
+  <img src="https://img.shields.io/badge/LinkedIn-F2B705?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+</a>
+
+<br>
+
+</td>
+<td align="center" valign="top">
+
+🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>🟨<br>🟪<br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center">
+
+🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪🟨🟪
+</td>
+</tr>
+</table>
